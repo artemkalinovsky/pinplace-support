@@ -1,6 +1,6 @@
-# PinPlace Support & Documentation
+# PinPlace Support
 
-Welcome to the official support site for **PinPlace**, the free, ad-free app for saving, organizing, and exploring your favorite spots. This site provides all the information you need—from getting started guides to troubleshooting tips.
+Welcome to the official support site for **PinPlace**, the free, ad-free app for saving, organizing, and exploring your favorite spots.
 
 ## Need More Help?
 
